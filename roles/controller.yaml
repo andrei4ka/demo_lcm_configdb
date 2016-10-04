@@ -1,0 +1,6 @@
+---
+test_value: 'test value from the Controller role'
+test_array:
+  - controller-role
+test_hash:
+  override_role: controller

@@ -1,0 +1,6 @@
+---
+test_value: 'test value from the cluster level override'
+test_array:
+  - cluster_level
+test_hash:
+  level: cluster

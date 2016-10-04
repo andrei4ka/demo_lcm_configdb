@@ -1,0 +1,7 @@
+---
+configuration:
+  keystone_config:
+    'DEFAULT/debug':
+      value: true
+packages:
+  tzdata: '2016f-0ubuntu0.14.04'

@@ -1,0 +1,6 @@
+---
+test_value: 'test value from the LCM role'
+test_array:
+  - lcm-role
+test_hash:
+  override_role: lcm
